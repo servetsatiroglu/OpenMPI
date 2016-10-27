@@ -1,5 +1,5 @@
 # OpenMPI
-OpenMP includes examples
+OpenMPI includes examples
 
 The compilation in the following way
 
